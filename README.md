@@ -1,7 +1,7 @@
 ## ReduxToolkit Job-Tracking
 <h1>A full responsive job tracking site I created with React, you can both add jobs and track the jobs you add on this site. </h1>
 
-# Kütüphaneler
+# Libraries
 - react-router-dom
 - axios
 - sass
